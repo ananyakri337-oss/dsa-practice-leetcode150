@@ -6,3 +6,4 @@ Language: Python
 ## Progress
 ### Arrays & Hashing
 - [x] 217. Contains Duplicate
+- [x] 242. Valid Anagram
